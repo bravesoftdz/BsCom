@@ -1,6 +1,8 @@
 # BsCom
 
-	This is a very Good application for  management buying and selling computer components. With this program, you can save selling and buying information about computers tool in the store and prepare management reports based on it. The program is designed for retailers of computer components. this App contains :
+	This is a very Good application for  management buying and selling computer components. With this program, 
+you can save selling and buying information about computers tool in the store and prepare management reports based on it. 
+The program is designed for retailers of computer components. this App contains :
     • Save information about the Buying Components an tool and manage it 
     •  Define the Customers and Manage the Information that related to them 
     •  Define and Manage All Computers Tools and components
